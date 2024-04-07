@@ -1,6 +1,6 @@
-produto, price, entregue
-cadeira, 500, False
-mesa, 250, True
-mouse, 150, False
-teclado, 200, True
-apoio, 50, True
+produto,price,entregue
+cadeira,500,False
+mesa,250,True
+mouse,150,False
+teclado,200,True
+apoio,50,True
